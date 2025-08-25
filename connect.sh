@@ -13,6 +13,8 @@ declare -A CLUSTER_MAP=(
   ["marin-us-east1-d-vllm"]="localhost:8267"
   ["marin-us-central1.yaml"]="localhost:8266"
   ["marin-us-central1"]="localhost:8266"
+  ["marin-us-central2"]="localhost:8268"
+  ["marin-us-central2.yaml"]="localhost:8268"
 )
 
 # Optional: default cluster if none set
